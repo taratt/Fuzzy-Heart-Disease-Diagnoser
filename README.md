@@ -1,4 +1,4 @@
-# Heart-Disease-Diagnoser
+# Fuzzy-Heart-Disease-Diagnoser
 This project is a fuzzy expert system to determine the heart sickness presence level. It is implemented based on the paper "A fuzze expert system for heart disease diagnosis".
 <br>
 Reference:
